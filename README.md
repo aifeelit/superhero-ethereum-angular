@@ -2,7 +2,6 @@
 This is an example of DApp (decentralized application). The blockchain part is an Ethereum, Solidity Smart contract, here it is basically the backend (a service). Frontend application is an Angular-cli project.
 It allows you to review superheroes (add marks, write some feedback), add new superheroes. All data is stored on a blockchain: superheroes, reviews.
 
-![App preview](docs/images/Demo.gif?raw=true "App preview")
 
 ## Disclaimer
 This is a learning project. It's not recommended for a production. The Solidity contracts are implemented with experimental flags enabled to simplify the development. I will improve it to make production ready soon. If you would like to help me bringing it ready to production, just let know on dmytro.zharkov@gmail.com.
